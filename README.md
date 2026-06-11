@@ -4,7 +4,7 @@
 
 ## The Problem
 
-RLHF training runs are expensive and fragile. A single mode collapse or reward hacking event can waste days of GPU time and thousands of dollars. Current approaches rely on post-hoc evaluation — by the time you notice the problem, the damage is done.
+RLHF training runs are expensive and fragile. A single mode collapse or reward hacking event can waste days of GPU time and thousands of dollars. Current approaches rely on post-hoc evaluation by the time you notice the problem, the damage is done.
 
 ## The Solution
 
